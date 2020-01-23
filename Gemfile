@@ -22,7 +22,7 @@ gem 'jquery-datatables-rails', git: 'https://github.com/rweng/jquery-datatables-
 gem 'jquery-rails'
 gem 'jquery-timepicker-rails'
 gem 'jquery-ui-rails'
-gem 'json', '1.8.3'
+gem 'json', '1.8.6'
 gem 'kaminari'
 gem 'kaminari-mongoid'
 gem 'kgio', '~> 2.10.0'
